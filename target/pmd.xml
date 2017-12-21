@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.6.1" timestamp="2017-12-20T16:15:33.057">
+<file name="C:\maven-projects\bank\src\main\java\com\example\ManageEmployee.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.example" class="ManageEmployee" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="30" endline="30" begincolumn="15" endcolumn="20" rule="UnusedLocalVariable" ruleset="Unused Code" package="com.example" class="ManageEmployee" method="main" variable="empID3" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'empID3'.
+</violation>
+</file>
+<file name="C:\maven-projects\bank\src\main\java\com\example\ShoppingCart.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Import Statements" package="com.example" class="ShoppingCart" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.concurrent.TimeUnit'
+</violation>
+</file>
+</pmd>
