@@ -1,6 +1,7 @@
 SalariedEmployee.class
 com\example\Employee.class
 com\example\ManageEmployee.class
+com\example\VigneshAddedFileToAddTwoNumbers.class
 com\example\Calculator.class
 com\example\InvalidProductException.class
 com\example\PayrollService.class
