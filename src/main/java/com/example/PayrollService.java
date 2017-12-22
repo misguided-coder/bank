@@ -3,7 +3,7 @@ package com.example;
 public class PayrollService {
 
 	public double hra(double salary) {
-		return salary * .50;
+		return salary * .40;
 	}
 
 	public double da(double salary) {
